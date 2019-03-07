@@ -6,6 +6,6 @@
     "default_popup": "hello.html",
     "default_icon": "hello_extensions.png"
   },
-  "permissions": ["tabs"],
+  "permissions": ["tabs", "storage"],
   "manifest_version": 2
 }
